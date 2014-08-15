@@ -1,0 +1,30 @@
+p {
+	color: #f400ff;
+	font: italic normal bold 14px 100% Georgia,serif;
+}
+
+nav {
+	border: dotted;
+	border-color: #f400ff;
+
+}
+
+h1, h2 {
+	color: #00bfff;
+}
+
+body {
+	background: #e8bddc;
+}
+
+img {
+	max-width: 100%;
+	-webkit-transform:rotate(270deg);
+	height: 300px;
+	margin-bottom: 20%;
+}
+
+.img-responsive {
+	max-width: 100%;
+	max-height: 100%;
+}
